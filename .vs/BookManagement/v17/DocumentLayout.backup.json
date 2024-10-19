@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\comandhandlers\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\commands\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDCC369-96AD-4A67-AA0E-2FA136463AC5}|Domain\\Domain.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDCC369-96AD-4A67-AA0E-2FA136463AC5}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\comandhandlers\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\queryhandlers\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\queries\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\use cases\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDCC369-96AD-4A67-AA0E-2FA136463AC5}|Domain\\Domain.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDCC369-96AD-4A67-AA0E-2FA136463AC5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\infrastructure\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\bookmanagement\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\ComandHandlers\\DeleteBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\DeleteBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\ComandHandlers\\DeleteBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\DeleteBookCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:56:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Commands\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\DeleteBookCommand.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Commands\\DeleteBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\DeleteBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:55:11.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:18:14.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:25:27.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:46:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:21:00.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:27:37.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\CreateBookCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:43:23.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetBookByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:14:59.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:41:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllBooksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Queries\\GetAllBooksQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetAllBooksQuery.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Queries\\GetAllBooksQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetAllBooksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:37:10.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetBookByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetBookByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:13:17.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllBooksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:46:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:21:16.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:13:37.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:33:51.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:30:53.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepedencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Infrastructure\\DepedencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DepedencyInjection.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Infrastructure\\DepedencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DepedencyInjection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:07:09.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Utils\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Utils\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\Application\\Utils\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Utils\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:42:54.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeToolTip": "BookManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:34:25.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
